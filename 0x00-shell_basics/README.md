@@ -1,1 +1,1 @@
-shell basic command scripts
+ls script displays contents of the current directory
